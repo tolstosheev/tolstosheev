@@ -41,4 +41,9 @@ I'm beginner frontend developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tolstosheev&theme=dark&background=000000)](https://git.io/streak-stats)
+### :fire: My Stats :
+![tolstosheev's Stats](https://github-readme-stats.vercel.app/api?username=tolstosheev&theme=dark&show_icons=true&hide_border=false&count_private=true)  
+![tolstosheev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tolstosheev&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
+
+<img src="https://www.codewars.com/users/tolstosheev/badges/large" title="CodeWars" alt="CodeWars">
