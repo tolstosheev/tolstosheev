@@ -14,18 +14,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
----
-
-### :man_technologist: About Me :
-I'm beginner frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- 👨‍💻 Beginner frontend developer, learning HTML, CSS and JavaScript
-- 🌱 Currently delving into React and modern frameworks
-- ⚡ In my free time, I solve problems on Codewars and create mini-projects
-- 📫 How to contact: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daaanyyyaa)
-  
----
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
